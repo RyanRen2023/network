@@ -5,7 +5,7 @@
 IP Calculator is a Java application that calculates various IP-related details, such as network address, broadcast address, subnet mask, wildcard mask, and more. The project includes a graphical user interface (GUI) that allows users to input an IP address and view the calculated results.
 
 ## Directory Structure
-
+```
 ip-calculator/
 ├── src/
 │   ├── IpCalculator.java
@@ -13,7 +13,7 @@ ip-calculator/
 │   └── Main.java
 ├── README.md
 └── .gitignore
-
+```
 ## Features
 
 - Calculate the binary representation of an IP address
